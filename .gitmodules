@@ -1,0 +1,9 @@
+[submodule "0x01-git/0x01-git/alx-pre_course"]
+	path = 0x01-git/0x01-git/alx-pre_course
+	url = https://github.com/Hayweezyana/alx-pre_course
+[submodule "0x01-git/c/alx-pre_course"]
+	path = 0x01-git/c/alx-pre_course
+	url = https://github.com/Hayweezyana/alx-pre_course
+[submodule "0x01-git/js/alx-pre_course"]
+	path = 0x01-git/js/alx-pre_course
+	url = https://github.com/Hayweezyana/alx-pre_course
